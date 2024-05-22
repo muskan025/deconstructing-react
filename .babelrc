@@ -1,0 +1,3 @@
+{
+    "presets":["@babel/preset-react"] //transforms JSX syntax and other React-specific code into a format that can be understood by the JavaScript runtime environment 
+}
